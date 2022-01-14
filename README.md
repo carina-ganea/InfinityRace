@@ -1,2 +1,2 @@
 # InfinityRace
-Proiect Introducere in dezvoltarea Jocurilor pe Calculator
+Proiect Introducere in Dezvoltarea Jocurilor pe Calculator
