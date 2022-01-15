@@ -1,5 +1,5 @@
 # InfinityRace
-Proiect Introducere in Dezvoltarea Jocurilor pe Calculator
+Proiect Unity 2020.3.21f pentru Introducere in Dezvoltarea Jocurilor pe Calculator
 
 In colaborare cu 
 Adrian Catrinoiu,
